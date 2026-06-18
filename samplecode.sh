@@ -1,1 +1,1 @@
-Update welcome message in samplecode.sh
+echo "welcome to demo project and get started"
